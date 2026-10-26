@@ -63,10 +63,15 @@ Banks and financial institutions approve thousands of loan applications every da
 
 ## 📂 Dataset Information
 
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/abhinavgupta0311/loan-data)
+
+> 📥 **Download the dataset here:** [loan-data on Kaggle](https://www.kaggle.com/datasets/abhinavgupta0311/loan-data)
+> Place the downloaded `loan_data.csv` in the root of this repository before running the notebook.
+
 | Property        | Details                              |
 |-----------------|--------------------------------------|
 | **File**        | `loan_data.csv`                      |
-| **Source**      | Home Credit Default Risk (Kaggle-style) |
+| **Source**      | [Kaggle — loan-data](https://www.kaggle.com/datasets/abhinavgupta0311/loan-data) |
 | **Rows**        | 307,511                              |
 | **Columns**     | 122                                  |
 | **Target**      | `TARGET` (Binary)                    |
