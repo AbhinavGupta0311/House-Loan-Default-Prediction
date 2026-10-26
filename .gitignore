@@ -1,5 +1,5 @@
-ï»¿# ============================================================
-# House Loan Default Prediction â€” .gitignore
+# ============================================================
+# House Loan Default Prediction — .gitignore
 # ============================================================
 
 # --------------------------
@@ -53,9 +53,9 @@ ipython_config.py
 saved_model/
 
 # --------------------------
-# Data Files (large â€” use Git LFS or DVC instead)
+# Data Files (large — use Git LFS or DVC instead)
 # --------------------------
-# loan_data.csv
+loan_data.csv
 
 # --------------------------
 # IDE and Editor Files
